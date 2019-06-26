@@ -6,3 +6,4 @@
 [![Repo Link](https://img.shields.io/badge/Repo-Link-black.svg)](https://github.com/ianramzy/beat-visualizer)
 
 🥁 Experiment with sounds and visuals to make a simple beat at home, no music skills required!
+# → https://ianramzy.com/beat-visualizer
